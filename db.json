@@ -1,0 +1,22 @@
+{
+    "images": [
+      {
+        "id": 1,
+        "src": "https://i.ibb.co/5rjTcTC/img1.png",
+        "alt": "img1",
+        "url": "http://igorreact.zzz.com.ua/about"
+      },
+      {
+        "id": 2,
+        "src": "https://i.ibb.co/JR0BhNr/img2.png",
+        "alt": "img2",
+        "url": "https://focused-archimedes-31f6e9.netlify.app"
+      },
+      {
+        "id": 3,
+        "src": "https://i.ibb.co/dMx3MtK/img3.png",
+        "alt": "img3",
+        "url": "https://zealous-hamilton-965de7.netlify.app"
+      }
+    ]
+  }
